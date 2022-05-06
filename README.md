@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @catstyle1101
+- 👋 Hi, I’m @catstyle1101, i'm studying programming about 2 years, i'm using python
 - 🌱 I’m currently learning Python, SQLite, Parsing
 - 📫 How to reach me anton.m.rus@gmail.com
 
