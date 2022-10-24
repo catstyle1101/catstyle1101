@@ -8,7 +8,8 @@ My name is Anton.
 - pandas
 - Linux
 - Docker, docker-compose
-- Asyncio, FastAPI
+- Asyncio
+- FastAPI
 
 ## 👨‍🎓 Learning
 - Yandex Practikum student group 51 Python Backend Developer Course
