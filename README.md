@@ -1,10 +1,22 @@
-- 👋 Привет, я @catstyle1101, я изучаю Python с февраля 2019 года.
-- На данный момент я изучаю Django, SQL. Прохожу курс Python разработчик на Яндекс практикуме.
-- Имею большой опыт в продажах b2b сектор (электроматериалы, системы безопасности), Опыт руководства командой из 15 человек.
-- Программирование начал изучать, для автоматизации своей работы. Итерфейс через командную строку и телеграм бота.
-- 📫 Адрес электронной почты для связи anton.m.rus@gmail.com
+# Hi there 👋
+My name is Anton.
 
-Стек: Django, aiogram, pandas, fastapi, sqlalchemy
+## 💻 Techology stack
+- Django, DRF
+- SQLAlchemy
+- PostgreSQL
+- pandas
+- Linux
+- Docker, docker-compose
+- Asyncio, FastAPI
+
+## 👨‍🎓 Learning
+- Yandex Practikum student group 51 Python Backend Developer Course
+- Fluent Python book by Luciano Ramalho
+- Asyncio
+
+## 📈 I’m looking to collaborate on
+- Django projects
 
 <!---
 catstyle1101/catstyle1101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
