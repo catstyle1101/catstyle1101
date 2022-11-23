@@ -4,6 +4,7 @@ My name is Anton.
 ## 💻 Techology stack
 - Django, DRF
 - SQLAlchemy
+- Aiogram
 - PostgreSQL
 - pandas
 - Linux
