@@ -7,7 +7,6 @@ My name is Anton.
 - Aiogram
 - PostgreSQL
 - pandas
-- Linux
 - Docker, docker-compose
 - Asyncio
 - FastAPI
