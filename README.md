@@ -1,5 +1,6 @@
-# Hi there 👋
-My name is Anton.
+<h1 align="center">Hi there, I'm Anton.
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="40"/></h1>
+<h3 align="center">Python developer</h3>
 
 ## 💻 Techology stack
 - Python
