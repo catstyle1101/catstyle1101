@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Anton.
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="40"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width=30px></h1>
 <h3 align="center">Python developer</h3>
 
 ## 💻 Techology stack
