@@ -16,7 +16,7 @@
 - Asyncio
 
 ## 👨‍🎓 Learning
-- Yandex Practikum student group 51 Python Backend Developer Course
+- Yandex Practikum course graduate Python Backend Developer
 - Fluent Python book by Luciano Ramalho
 - Asyncio
 
