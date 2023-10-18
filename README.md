@@ -6,7 +6,6 @@
 - Python
 - Django
 - Django REST Framework
-- MySQL
 - PostgreSQL
 - Docker
 - FastAPI
@@ -14,14 +13,6 @@
 - Aiogram
 - pandas
 - Asyncio
-
-## 👨‍🎓 Learning
-- Yandex Practikum course graduate Python Backend Developer
-- Fluent Python book by Luciano Ramalho
-- Asyncio
-
-## 📈 I’m looking to collaborate on
-- Django projects
 
 
 ## 🏆Other
